@@ -1,7 +1,7 @@
 # Events-App-in-Angular5
 
-<a href="http://matutamiller.nazwa.pl/">See online</a>
+<a href="/">See Online</a>
 
-To observe:<br>
+To observe use:<br>
 Login: a@a.com <br>
 Password: a
